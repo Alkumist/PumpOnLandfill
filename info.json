@@ -1,0 +1,9 @@
+{
+    "name": "PumpOnLandfill",
+    "version": "0.2.0",
+    "title": "Pumps on Landfill",
+    "author": "0xc355, Alkumist",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0.42"],
+    "description": "Allows pumps to be placed on landfills, making mistakes with landfills less costly, but doesn't make things easier in a way like waterfill."
+}
